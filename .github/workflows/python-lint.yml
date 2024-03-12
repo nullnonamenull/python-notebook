@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - master
+      - python-oop
+      - python-typing
+      - python-basic
 
 jobs:
   lint:
